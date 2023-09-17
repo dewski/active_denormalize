@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.authors     = ["Garrett Bjerkhoel"]
   spec.email       = ["me@garrettbjerkhoel.com"]
   spec.homepage    = "https://github.com/dewski/active_denormalize"
-  spec.summary     = "Summary of ActiveDenormalize."
-  spec.description = "Description of ActiveDenormalize."
-  spec.license     = "MIT"
+  spec.summary     = "ActiveDenormalize is a gem that allows you to denormalize data across your ActiveRecord models."
+  spec.description = "ActiveDenormalize is a gem that allows you to denormalize data across your ActiveRecord models."
+  spec.license = "MIT"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/dewski/active_denormalize"
