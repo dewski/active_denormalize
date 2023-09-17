@@ -2,6 +2,8 @@
 
 module ActiveDenormalize
   module Associations
+    # ActiveDenormalize is a gem that allows you to denormalize data across your
+    # ActiveRecord models. It currently supports `belongs_to` relationships.
     module Extension
       OPTIONS = [:denormalize].freeze
 
